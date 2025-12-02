@@ -6,7 +6,7 @@
 
 Tengo 32 años, vivo en CABA, Argentina. 
 
-Skills: Excel | Power Bi | SQL | Suply Chain
+Skills: Supply Chain | Excel | Power Bi | SQL | Data
 
 - 📫 contacto: safarrace@outlook.com
 
