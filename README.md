@@ -9,7 +9,5 @@ Tengo 32 años, vivo en CABA, Argentina.
 Skills: Excel | PowerBi | SQL | 
 
 - 📫 contacto: safarrace@outlook.com
--               +54 1167367590 
-- ⚡ Fast Learning 
 
 
